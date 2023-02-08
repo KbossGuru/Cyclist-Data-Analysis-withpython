@@ -1,0 +1,22 @@
+CYCLIST ANALYSIS
+
+Cyclist is a bike-sharing company that offers bikes to their users. There are two types of users
+of cyclist bikes which are subscribers and customers. Customers are users that use cyclist bikes
+on a daily basis i.e within 24-hrs while subscribers use cyclists bike yearly.
+
+PROBLEM- Cyclist requires to know how Subscribers and Customers use their bikes differently in
+	 order to identify how they can increase the number of subscribers
+
+
+SOLUTION
+- 53% of cyclist users are subscribers
+- Subscribers were highest between October to December and lowest between June to September
+- Customers are fairly higher during the weekends
+- Stations with high number of docks have fairly high amount of Subscribers
+
+RECOMMENDATIONS
+- Increasing the number of docks in station could lead to higher number of Subscribers
+- Advertisement can be focuseed on months with low subscribers 
+- Sales/discounts in the prices of bikes could lead to higher Subscribers
+- Other metrics like Age range of users, Types of bikes users prefer, Location of Users
+  e.t.c could help in better analysis of how to improve the number of Subscribers.
